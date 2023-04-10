@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Android Kotlin Study</string>
+  <string name="app_name">Android Kotlin Study</string>
+  <string name="title_activity_birtday_greeting">BirtdayGreetingActivity</string>
+  <string name="happy_birthday_text">Happy Birthday Sam!</string>
+  <string name="signature_text">-from Emma</string>
+  <string name="title_activity_text_manager">TextManagerActivity</string>
 </resources>
