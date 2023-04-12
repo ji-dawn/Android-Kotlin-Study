@@ -12,9 +12,9 @@
       android:theme="@style/Theme.AndroidKotlinStudy"
       tools:targetApi="31">
     <activity
-        android:name=".TextManagerActivity"
+        android:name=".TaskManagerActivity"
         android:exported="false"
-        android:label="@string/title_activity_text_manager"
+        android:label="@string/title_activity_task_manager"
         android:theme="@style/Theme.AndroidKotlinStudy" />
     <activity
         android:name=".BirtdayGreetingActivity"
